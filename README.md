@@ -15,4 +15,4 @@ I attempted to deploy this Flask application on Vercel following DevOps best pra
 - `vercel.json` → Configuration file (if created)
 - `.github/workflows/deploy.yml` → Attempted CI/CD workflow
 
-Even though deployment isn't successful yet, all necessary configurations are in place.
+ Deployment is successful , all necessary configurations are in place.
